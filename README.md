@@ -7,7 +7,7 @@ I'm big on teamwork, reliability, keeping things real, and staying true to your 
 
 As we ride the wave of the digital revolution, I'm all in on staying ahead of the curve, spreading good vibes, and keeping an eye on the horizon. I'm always on the lookout for new ideas and inspiration, and you can catch me sharing my discoveries on my website. Come join me on this journey of discovery, innovation, and pushing boundaries in the ever-changing world of tech. Together, let's make tomorrow brighter—one line of code at a time.
 
-- 🔭 I’m currently working on [Vio](https://github.com/0xAtrotos/vio-boilerblate)
+- 🔭 I’m currently working on [Vio](https://github.com/0xAtrotos/vio-boilerplate)
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with adding Vio features
