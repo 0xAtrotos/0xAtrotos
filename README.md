@@ -21,4 +21,4 @@
 - 📫 How to reach me: [@atr0t0s on X](https://x.com/atr0t0s)
 - ⚡ Fun fact: I am the proud dad of two awesome twin boys!
 
-**[Read my resume](RESUME.md)
+**[Read my resume](RESUME.md)**
